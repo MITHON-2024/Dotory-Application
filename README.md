@@ -10,10 +10,10 @@
 2024.10.18 ~ 2024.10.19
 
 ## Contributors 🙋
-- W [김서연](https://github.com/sean807H)
-- W [나지은](https://github.com/jieun0240)
-- W [황유진](https://github.com/hofkj)
-- S [장하영](https://github.com/hayeong120)
+- F [김서연](https://github.com/sean807H)
+- F [나지은](https://github.com/jieun0240)
+- F [황유진](https://github.com/hofkj)
+- B [장하영](https://github.com/hayeong120)
 - D 박세연
 - D 이자연
   
@@ -23,5 +23,5 @@
 
 ## Languages 📖
 - Frontend  👉🏻 ```Html + Css + Js```
-- Server 👉🏻 ```PHP```
+- Server 👉🏻 ```Node.js```
 - Database 👉🏻 ```MySQL```
